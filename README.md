@@ -1,2 +1,2 @@
 # STPST21Server
-Repository for Bug Issues or Feautre Requests
+Repository for Bug Issues or Feature Requests
